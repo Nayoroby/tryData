@@ -1,0 +1,42 @@
+{
+    "countries": [
+        {
+            "id": 1,
+            "name": "belarus",
+            "proc": "",
+            "city": {
+            "city1": {
+                "name": "brest",
+                "proc": 88
+            },
+            "city2": {
+                "name": "minsk",
+                "proc": 90
+            },
+            "city3": {
+                "name": "grodno",
+                "proc": 81
+            }
+            }
+        },
+        {
+            "id": 2,
+            "name": "poland",
+            "proc": "",
+            "city": {
+            "city1": {
+                "name": "brest",
+                "proc": 88
+            },
+            "city2": {
+                "name": "minsk",
+                "proc": 90
+            },
+            "city3": {
+                "name": "grodno",
+                "proc": 81
+            }
+            }
+        }
+    ]
+}
